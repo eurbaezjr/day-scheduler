@@ -6,7 +6,17 @@ var nowHour = moment().format("HH");
 $("#currentDay").text(date);
 
 if (lastSaved === undefined || lastSaved  == null || lastSaved.length <= 0) {
-var user = {};}
+var user = {
+    input9:"",
+    input10: "",
+    input11: "",
+    input12: "",
+    input13: "",
+    input14: "",
+    input15: "",
+    input16: "",
+    input17: "",
+};}
 else {
     var user = {
         input9: lastSaved.input9,
