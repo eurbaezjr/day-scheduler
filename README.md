@@ -1,6 +1,8 @@
-# Homework-5 (Work Day Scheduler)
+# Work Day Scheduler
 
-In the UCLA Coding Bootcamp students were challenged with creating a scheduler application that would be responsive, color dynamic, and that saved the user responses once the save buttons were clicked. 
+![Example 3](screenshots/screengif.gif) 
+
+In the UCLA Coding Bootcamp students were challenged with creating a scheduler application that would be responsive, color dynamic, and that saved the user responses once the save buttons were clicked. Students were only allowed to use HTML, CSS and Javascript.
 
 In order to begin this activity, I started with the following pseudocode. 
 
@@ -23,5 +25,4 @@ Javascript:
 Below are examples of the application. 
 
 ![Example 1](screenshots/screenshot1.png) 
-![Example 2](screenshots/screenshot2.png) 
-![Example 3](screenshots/screengif.gif) 
+![Example 2](screenshots/screenshot2.png)
