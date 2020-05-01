@@ -22,7 +22,6 @@ Javascript:
 - If hour is present, dynamically change css of comment box to red
 - if hour is future, dynamically change css of comment box to green
 
-Below are examples of the application. 
-
-![Example 1](screenshots/screenshot1.png) 
-![Example 2](screenshots/screenshot2.png)
+How to Use or Test? 
+- Download repository to and open index.html file on your local machine
+- Open hosted sample site https://eurbaezjr.github.io/day-scheduler/
