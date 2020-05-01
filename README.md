@@ -1,6 +1,6 @@
 # Work Day Scheduler
 
-![Example 3](screenshots/screengif.gif) 
+![Example 3](screenshots/day-scheduler.gif) 
 
 In the UCLA Coding Bootcamp students were challenged with creating a scheduler application that would be responsive, color dynamic, and that saved the user responses once the save buttons were clicked. Students were only allowed to use HTML, CSS and Javascript.
 
