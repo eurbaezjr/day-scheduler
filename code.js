@@ -1,5 +1,5 @@
 
-//Load document when ready
+//Load the document when it is ready
 $(document).ready(function () {
 var date = moment().format("dddd, MMMM Do");
 var nowHour = moment().format("HH");
