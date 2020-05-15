@@ -5,7 +5,7 @@ $(document).ready(function () {
     var nowHour = moment().format("HH");
     $("#currentDay").text(date);
 
-    //If there is not anything saved in localStorage, create the user object
+    //If there is not anything saved in local storage, create the user object
     if (lastSaved === undefined || lastSaved == null || lastSaved.length <= 0) {
         var user = {
             input9: "",
