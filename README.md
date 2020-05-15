@@ -4,7 +4,7 @@
 
 In the UCLA Coding Bootcamp students were challenged with creating a scheduler application that would be responsive, color dynamic, and that saved the user responses once the save buttons were clicked. Students were only allowed to use HTML, CSS and Javascript.
 
-In order to begin this activity, I started with the following pseudocode. 
+The application was tackled by first creating the following pseudocode. I find it helpful to create a pseudocode map prior to starting any project.
 
 # HTML: 
 - Page contains typical HTML elements (header, body, h1 etc.)
