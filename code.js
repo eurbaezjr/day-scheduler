@@ -48,7 +48,7 @@ $(document).ready(function () {
     });
     // =================================================
 
-    // Upon clicking on save item, user notes are saved to local storage
+    // Upon clicking on "save item", user notes are saved to local storage
     $("button").on("click", function () {
         var savedHour = $(this).attr('value');
 
